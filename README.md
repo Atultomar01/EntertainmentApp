@@ -2,7 +2,7 @@
 Entertainment App is a web application that offers users the opportunity to explore and enjoy a diverse range of movies. The platform provides an intuitive interface for users to discover movies, view detailed information, and watch trailers. Additionally, the application incorporates user authentication, bookmarking of favorite movies, and personalized recommendations.
 
 ## Visit the website:
-   https://entertainment-app-green.vercel.app/
+   https://670a0af92f8a5cc681a03611--startling-pavlova-5c957b.netlify.app/
 
 
 ## file structure

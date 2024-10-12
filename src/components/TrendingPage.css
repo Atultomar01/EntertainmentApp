@@ -1,0 +1,12 @@
+
+.trending-list {
+  display: flex;
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+  gap: 20px;
+  padding-bottom: 20px; 
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
